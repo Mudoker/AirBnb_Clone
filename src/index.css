@@ -40,3 +40,16 @@
     border-radius: 8.949999809265137px;
 
 }
+
+.card-img {
+    height: 232px;
+    width: 200px;
+    left: 77px;
+    top: 96px;
+    border-radius: 8.949999809265137px;
+
+}
+
+.grey {
+    color: grey;
+}
